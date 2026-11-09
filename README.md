@@ -1,4 +1,4 @@
-# Sistema de Gestión Contable y Recibos (Estilo "Treinta")
+# Sistema de Gestión Contable y Recibos 
 
 Aplicación web integral para el registro, control contable y emisión de recibos oficiales en formato PDF con numeración correlativa legal.
 
